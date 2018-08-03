@@ -1,0 +1,41 @@
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Landing.resources
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Management.resources
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RoomType.resources
+c:\users\tcr\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddRoom.resources
+C:\Users\TCR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Change.resources
+C:\Users\TCR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IrisSkin4.dll
+C:\Users\TCR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+C:\Users\TCR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectRoom.resources
+C:\Users\TCR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectRoomType.resources
+C:\Users\TCR\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddGuest.resources
+E:\TCR\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\TCR\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\TCR\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddGuest.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddRoom.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Change.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Landing.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Management.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RoomType.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectRoom.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SelectRoomType.resources
+D:\新建文件夹\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\new\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\new\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\new\课程设计\酒店客房管理系统\酒店客房管理系统\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
